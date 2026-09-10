@@ -1,10 +1,10 @@
-package odin_company.sistema_fabrica;
+package com.OdinCompany.fatecOps;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SistemaFabricaApplicationTests {
+class FatecOpsApplicationTests {
 
 	@Test
 	void contextLoads() {
